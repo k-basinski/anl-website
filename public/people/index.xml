@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab members on Auditory Neuroscience Laboratory</title>
+    <link>//localhost:1313/people/</link>
+    <description>Recent content in Lab members on Auditory Neuroscience Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>(C)opyright 2024 ANL</copyright>
+    <atom:link href="//localhost:1313/people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aniela Brzezińska</title>
+      <link>//localhost:1313/people/aniela/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/people/aniela/</guid>
+      <description>Aniela&amp;rsquo;s site.</description>
+      
+    </item>
+    
+    <item>
+      <title>Bartosz Witkowski</title>
+      <link>//localhost:1313/people/bartosz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/people/bartosz/</guid>
+      <description>I&amp;rsquo;m Bartek.</description>
+      
+    </item>
+    
+    <item>
+      <title>Julia Linda</title>
+      <link>//localhost:1313/people/julia_l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/people/julia_l/</guid>
+      <description>My name is Julia Linda.</description>
+      
+    </item>
+    
+    <item>
+      <title>Kornelia Renachowska</title>
+      <link>//localhost:1313/people/kornelia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/people/kornelia/</guid>
+      <description>I&amp;rsquo;m a Health Psychology student with an interest in the neuropsychology field.</description>
+      
+    </item>
+    
+    <item>
+      <title>Krzysztof Basiński</title>
+      <link>//localhost:1313/people/krzysztof/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/people/krzysztof/</guid>
+      <description>k[dot]basinski[at]gumed[dot]edu[dot]pl</description>
+      
+    </item>
+    
+    <item>
+      <title>Tomasz Domżalski</title>
+      <link>//localhost:1313/people/tomasz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/people/tomasz/</guid>
+      <description>Strona giermka.</description>
+      
+    </item>
+    
+    <item>
+      <title>Zosia Mikołajczak</title>
+      <link>//localhost:1313/people/zosia_m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/people/zosia_m/</guid>
+      <description>My name is Sophie and I am a second year student of Health Psychology at the Medical University of Gdańsk.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
