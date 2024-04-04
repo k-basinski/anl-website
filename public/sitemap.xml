@@ -3,76 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>//localhost:1313/anl-website/</loc>
     <lastmod>2024-04-04T11:32:29+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/participate/</loc>
+    <loc>//localhost:1313/anl-website/participate/</loc>
     <lastmod>2024-04-04T11:32:29+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/my-first-post/</loc>
+    <loc>//localhost:1313/anl-website/posts/my-first-post/</loc>
     <lastmod>2024-01-16T16:08:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>//localhost:1313/anl-website/posts/</loc>
     <lastmod>2024-01-16T16:08:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/people/aniela/</loc>
+    <loc>//localhost:1313/anl-website/people/aniela/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/people/bartosz/</loc>
+    <loc>//localhost:1313/anl-website/people/bartosz/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/people/julia_l/</loc>
+    <loc>//localhost:1313/anl-website/people/julia_l/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/people/kornelia/</loc>
+    <loc>//localhost:1313/anl-website/people/kornelia/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/people/krzysztof/</loc>
+    <loc>//localhost:1313/anl-website/people/krzysztof/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/people/</loc>
+    <loc>//localhost:1313/anl-website/people/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>//localhost:1313/anl-website/projects/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/publications/</loc>
+    <loc>//localhost:1313/anl-website/publications/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/people/tomasz/</loc>
+    <loc>//localhost:1313/anl-website/people/tomasz/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/people/zosia_m/</loc>
+    <loc>//localhost:1313/anl-website/people/zosia_m/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

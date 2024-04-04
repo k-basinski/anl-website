@@ -2,118 +2,118 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Auditory Neuroscience Laboratory</title>
-    <link>//localhost:1313/</link>
+    <link>//localhost:1313/anl-website/</link>
     <description>Recent content on Auditory Neuroscience Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>(C)opyright 2024 ANL</copyright>
-    <lastBuildDate>Thu, 04 Apr 2024 11:32:29 +0200</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2024 11:32:29 +0200</lastBuildDate><atom:link href="//localhost:1313/anl-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Participate</title>
-      <link>//localhost:1313/participate/</link>
+      <link>//localhost:1313/anl-website/participate/</link>
       <pubDate>Thu, 04 Apr 2024 11:32:29 +0200</pubDate>
       
-      <guid>//localhost:1313/participate/</guid>
+      <guid>//localhost:1313/anl-website/participate/</guid>
       <description>&amp;hellip;coming soon!</description>
       
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
+      <link>//localhost:1313/anl-website/posts/my-first-post/</link>
       <pubDate>Tue, 16 Jan 2024 16:08:06 +0100</pubDate>
       
-      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <guid>//localhost:1313/anl-website/posts/my-first-post/</guid>
       <description>Hi # This is so kewl and pretty!</description>
       
     </item>
     
     <item>
       <title>Aniela Brzezińska</title>
-      <link>//localhost:1313/people/aniela/</link>
+      <link>//localhost:1313/anl-website/people/aniela/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/people/aniela/</guid>
+      <guid>//localhost:1313/anl-website/people/aniela/</guid>
       <description>Aniela&amp;rsquo;s site.</description>
       
     </item>
     
     <item>
       <title>Bartosz Witkowski</title>
-      <link>//localhost:1313/people/bartosz/</link>
+      <link>//localhost:1313/anl-website/people/bartosz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/people/bartosz/</guid>
+      <guid>//localhost:1313/anl-website/people/bartosz/</guid>
       <description>I&amp;rsquo;m Bartek.</description>
       
     </item>
     
     <item>
       <title>Julia Linda</title>
-      <link>//localhost:1313/people/julia_l/</link>
+      <link>//localhost:1313/anl-website/people/julia_l/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/people/julia_l/</guid>
+      <guid>//localhost:1313/anl-website/people/julia_l/</guid>
       <description>My name is Julia Linda.</description>
       
     </item>
     
     <item>
       <title>Kornelia Renachowska</title>
-      <link>//localhost:1313/people/kornelia/</link>
+      <link>//localhost:1313/anl-website/people/kornelia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/people/kornelia/</guid>
+      <guid>//localhost:1313/anl-website/people/kornelia/</guid>
       <description>I&amp;rsquo;m a Health Psychology student with an interest in the neuropsychology field.</description>
       
     </item>
     
     <item>
       <title>Krzysztof Basiński</title>
-      <link>//localhost:1313/people/krzysztof/</link>
+      <link>//localhost:1313/anl-website/people/krzysztof/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/people/krzysztof/</guid>
+      <guid>//localhost:1313/anl-website/people/krzysztof/</guid>
       <description>k[dot]basinski[at]gumed[dot]edu[dot]pl</description>
       
     </item>
     
     <item>
       <title>Projects</title>
-      <link>//localhost:1313/projects/</link>
+      <link>//localhost:1313/anl-website/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/</guid>
+      <guid>//localhost:1313/anl-website/projects/</guid>
       <description>Harmonicity in auditory perception # When objects in the world vibrate, pressure changes in the form of acoustical waves are propagated through air.</description>
       
     </item>
     
     <item>
       <title>Publications</title>
-      <link>//localhost:1313/publications/</link>
+      <link>//localhost:1313/anl-website/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/publications/</guid>
+      <guid>//localhost:1313/anl-website/publications/</guid>
       <description>Preprints # Papers # Basiński, K.</description>
       
     </item>
     
     <item>
       <title>Tomasz Domżalski</title>
-      <link>//localhost:1313/people/tomasz/</link>
+      <link>//localhost:1313/anl-website/people/tomasz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/people/tomasz/</guid>
+      <guid>//localhost:1313/anl-website/people/tomasz/</guid>
       <description>Strona giermka.</description>
       
     </item>
     
     <item>
       <title>Zosia Mikołajczak</title>
-      <link>//localhost:1313/people/zosia_m/</link>
+      <link>//localhost:1313/anl-website/people/zosia_m/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/people/zosia_m/</guid>
+      <guid>//localhost:1313/anl-website/people/zosia_m/</guid>
       <description>My name is Sophie and I am a second year student of Health Psychology at the Medical University of Gdańsk.</description>
       
     </item>
