@@ -9,6 +9,7 @@ showWordCount: false
 
 {{< figure src="members/aniela.jpg"  default=true width="300" >}}
 
+[{{< icon "email" >}}](mailto:anielabrzezinska@gumed.edu.pl)
 [{{< icon "linkedin" >}}](https://www.linkedin.com/in/aniela-brzezi%C5%84ska-b43b26292/)
 [{{< icon "researchgate" >}}](https://www.researchgate.net/profile/Aniela-Brzezinska)
 

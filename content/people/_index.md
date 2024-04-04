@@ -6,12 +6,12 @@ description: "This is a list of all lab members and affiliates."
 
 ## Principal Investigator
 
-[Krzysztof Basiński](krzysztof)
+- [Krzysztof Basiński](krzysztof)
 
 
 ## PhD students
 
-[Tomasz Domżalski](tomasz)
+- [Tomasz Domżalski](tomasz)
 
 ## Masters students
 
