@@ -7,4 +7,4 @@ showWordCount: false
 param_key: "PI"
 ---
 
-Strona giermka.
+This is Sparta
