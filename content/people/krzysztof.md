@@ -3,6 +3,8 @@ title: "Krzysztof Basiński"
 showAuthor: false
 showReadingTime: false
 showWordCount: false
+build:
+  list: always
 ---
 
 
