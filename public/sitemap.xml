@@ -3,76 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/anl-website/</loc>
+    <loc>anl.gumed.edu.pl/</loc>
     <lastmod>2024-04-04T11:32:29+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/anl-website/participate/</loc>
+    <loc>anl.gumed.edu.pl/participate/</loc>
     <lastmod>2024-04-04T11:32:29+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/anl-website/posts/my-first-post/</loc>
+    <loc>anl.gumed.edu.pl/posts/my-first-post/</loc>
     <lastmod>2024-01-16T16:08:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/anl-website/posts/</loc>
+    <loc>anl.gumed.edu.pl/posts/</loc>
     <lastmod>2024-01-16T16:08:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/anl-website/people/aniela/</loc>
+    <loc>anl.gumed.edu.pl/people/aniela/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/anl-website/people/bartosz/</loc>
+    <loc>anl.gumed.edu.pl/people/bartosz/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/anl-website/people/julia_l/</loc>
+    <loc>anl.gumed.edu.pl/people/julia_l/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/anl-website/people/kornelia/</loc>
+    <loc>anl.gumed.edu.pl/people/kornelia/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/anl-website/people/krzysztof/</loc>
+    <loc>anl.gumed.edu.pl/people/krzysztof/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/anl-website/people/</loc>
+    <loc>anl.gumed.edu.pl/people/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/anl-website/projects/</loc>
+    <loc>anl.gumed.edu.pl/projects/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/anl-website/publications/</loc>
+    <loc>anl.gumed.edu.pl/publications/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/anl-website/people/tomasz/</loc>
+    <loc>anl.gumed.edu.pl/people/tomasz/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/anl-website/people/zosia_m/</loc>
+    <loc>anl.gumed.edu.pl/people/zosia_m/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

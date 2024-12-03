@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab members on Auditory Neuroscience Laboratory</title>
-    <link>//localhost:1313/anl-website/people/</link>
+    <link>anl.gumed.edu.pl/people/</link>
     <description>Recent content in Lab members on Auditory Neuroscience Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>(C)opyright 2024 ANL</copyright>
-    <atom:link href="//localhost:1313/anl-website/people/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="anl.gumed.edu.pl/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aniela Brzezińska</title>
-      <link>//localhost:1313/anl-website/people/aniela/</link>
+      <link>anl.gumed.edu.pl/people/aniela/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/anl-website/people/aniela/</guid>
-      <description>4th year Health Psychology student with a programming background.</description>
+      <guid>anl.gumed.edu.pl/people/aniela/</guid>
+      <description></description>
       
     </item>
     
     <item>
       <title>Bartosz Witkowski</title>
-      <link>//localhost:1313/anl-website/people/bartosz/</link>
+      <link>anl.gumed.edu.pl/people/bartosz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/anl-website/people/bartosz/</guid>
-      <description>I&amp;rsquo;m Bartek.</description>
+      <guid>anl.gumed.edu.pl/people/bartosz/</guid>
+      <description></description>
       
     </item>
     
     <item>
       <title>Julia Linda</title>
-      <link>//localhost:1313/anl-website/people/julia_l/</link>
+      <link>anl.gumed.edu.pl/people/julia_l/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/anl-website/people/julia_l/</guid>
-      <description>My name is Julia Linda.</description>
+      <guid>anl.gumed.edu.pl/people/julia_l/</guid>
+      <description></description>
       
     </item>
     
     <item>
       <title>Kornelia Renachowska</title>
-      <link>//localhost:1313/anl-website/people/kornelia/</link>
+      <link>anl.gumed.edu.pl/people/kornelia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/anl-website/people/kornelia/</guid>
-      <description>I&amp;rsquo;m a Health Psychology student with an interest in the neuropsychology field.</description>
+      <guid>anl.gumed.edu.pl/people/kornelia/</guid>
+      <description></description>
       
     </item>
     
     <item>
       <title>Krzysztof Basiński</title>
-      <link>//localhost:1313/anl-website/people/krzysztof/</link>
+      <link>anl.gumed.edu.pl/people/krzysztof/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/anl-website/people/krzysztof/</guid>
-      <description>I am an assistant professor in the Department of Psychology, Medical University of Gdańsk, Poland.</description>
+      <guid>anl.gumed.edu.pl/people/krzysztof/</guid>
+      <description></description>
       
     </item>
     
     <item>
       <title>Tomasz Domżalski</title>
-      <link>//localhost:1313/anl-website/people/tomasz/</link>
+      <link>anl.gumed.edu.pl/people/tomasz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/anl-website/people/tomasz/</guid>
-      <description>This is Sparta</description>
+      <guid>anl.gumed.edu.pl/people/tomasz/</guid>
+      <description></description>
       
     </item>
     
     <item>
       <title>Zosia Mikołajczak</title>
-      <link>//localhost:1313/anl-website/people/zosia_m/</link>
+      <link>anl.gumed.edu.pl/people/zosia_m/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/anl-website/people/zosia_m/</guid>
-      <description>My name is Sophie and I am a second year student of Health Psychology at the Medical University of Gdańsk.</description>
+      <guid>anl.gumed.edu.pl/people/zosia_m/</guid>
+      <description></description>
       
     </item>
     
