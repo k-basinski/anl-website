@@ -2,118 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Auditory Neuroscience Laboratory</title>
-    <link>anl.gumed.edu.pl/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Auditory Neuroscience Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>(C)opyright 2024 ANL</copyright>
-    <lastBuildDate>Thu, 04 Apr 2024 11:32:29 +0200</lastBuildDate><atom:link href="anl.gumed.edu.pl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2024 11:32:29 +0200</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Participate</title>
-      <link>anl.gumed.edu.pl/participate/</link>
+      <link>//localhost:1313/participate/</link>
       <pubDate>Thu, 04 Apr 2024 11:32:29 +0200</pubDate>
       
-      <guid>anl.gumed.edu.pl/participate/</guid>
+      <guid>//localhost:1313/participate/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>anl.gumed.edu.pl/posts/my-first-post/</link>
+      <link>//localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 16 Jan 2024 16:08:06 +0100</pubDate>
       
-      <guid>anl.gumed.edu.pl/posts/my-first-post/</guid>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Aniela Brzezińska</title>
-      <link>anl.gumed.edu.pl/people/aniela/</link>
+      <link>//localhost:1313/people/aniela/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>anl.gumed.edu.pl/people/aniela/</guid>
+      <guid>//localhost:1313/people/aniela/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bartosz Witkowski</title>
-      <link>anl.gumed.edu.pl/people/bartosz/</link>
+      <link>//localhost:1313/people/bartosz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>anl.gumed.edu.pl/people/bartosz/</guid>
+      <guid>//localhost:1313/people/bartosz/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Julia Linda</title>
-      <link>anl.gumed.edu.pl/people/julia_l/</link>
+      <link>//localhost:1313/people/julia_l/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>anl.gumed.edu.pl/people/julia_l/</guid>
+      <guid>//localhost:1313/people/julia_l/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kornelia Renachowska</title>
-      <link>anl.gumed.edu.pl/people/kornelia/</link>
+      <link>//localhost:1313/people/kornelia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>anl.gumed.edu.pl/people/kornelia/</guid>
+      <guid>//localhost:1313/people/kornelia/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Krzysztof Basiński</title>
-      <link>anl.gumed.edu.pl/people/krzysztof/</link>
+      <link>//localhost:1313/people/krzysztof/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>anl.gumed.edu.pl/people/krzysztof/</guid>
+      <guid>//localhost:1313/people/krzysztof/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mirella Wojciechowska</title>
+      <link>//localhost:1313/people/mirella/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/people/mirella/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Projects</title>
-      <link>anl.gumed.edu.pl/projects/</link>
+      <link>//localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>anl.gumed.edu.pl/projects/</guid>
+      <guid>//localhost:1313/projects/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Publications</title>
-      <link>anl.gumed.edu.pl/publications/</link>
+      <link>//localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>anl.gumed.edu.pl/publications/</guid>
+      <guid>//localhost:1313/publications/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tomasz Domżalski</title>
-      <link>anl.gumed.edu.pl/people/tomasz/</link>
+      <link>//localhost:1313/people/tomasz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>anl.gumed.edu.pl/people/tomasz/</guid>
+      <guid>//localhost:1313/people/tomasz/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Zosia Mikołajczak</title>
-      <link>anl.gumed.edu.pl/people/zosia_m/</link>
+      <link>//localhost:1313/people/zosia_m/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>anl.gumed.edu.pl/people/zosia_m/</guid>
+      <guid>//localhost:1313/people/zosia_m/</guid>
       <description></description>
       
     </item>

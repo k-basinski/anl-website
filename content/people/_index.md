@@ -13,17 +13,14 @@ description: "This is a list of all lab members and affiliates."
 
 - [Tomasz Domżalski](tomasz)
 
-## Masters students
+## Masters/undergrad students
 
 - [Aniela Brzezińska](aniela)
 - [Bartosz Witkowski](bartosz)
-
-
-## Undergraduate students
-
 - [Julia Linda](julia_l)
 - [Zosia Mikołajczak](zosia_m)
 - [Kornelia Renachowska](kornelia)
+- [Mirella Wojciechowska](mirella)
 
 
 ## Affiliate members

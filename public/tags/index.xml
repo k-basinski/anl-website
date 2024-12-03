@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Auditory Neuroscience Laboratory</title>
-    <link>anl.gumed.edu.pl/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Auditory Neuroscience Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>(C)opyright 2024 ANL</copyright>
-    <atom:link href="anl.gumed.edu.pl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>
