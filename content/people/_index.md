@@ -17,13 +17,6 @@ description: "This is a list of all lab members and affiliates."
 
 - [Aniela Brzezińska](aniela)
 - [Bartosz Witkowski](bartosz)
-- [Julia Linda](julia_l)
 - [Zosia Mikołajczak](zosia_m)
 - [Kornelia Renachowska](kornelia)
 - [Mirella Wojciechowska](mirella)
-
-
-## Affiliate members
-
-- Julia Gwiazda
-- Gosia Zapał
