@@ -1,9 +1,23 @@
 ---
-title: "NeuroGDA"
 layout: "simple"
 ---
 
 {{< figure src="neurogda_logo.png" default=true width="500" >}}
+
+# Next seminar
+
+- 5/02/2025, 14:30 - 15:30
+- Room 2/DD/03, Centrum Medycyny Inwazyjnej (CMI), Uniwersyteckie Centrum Kliniczne, Smoluchowskiego 17 
+
+#### Agenda
+
+- Introduction by the organisers
+- Lab presentation – Michał Kucewicz, Brain and Mind Electrophysiology Laboratory, Gdańsk Tech
+- Informal discussion
+
+**Michal Kucewicz** is the founder of the Brain & Mind Electrophysiology (BME) lab at the BioTechMed Center of the Gdansk University of Technology in Poland. BME lab focuses on studying the brain activities underlying memory and higher cognitive functions with technologies for intracranial multi-electrode recordings and stimulation mainly in epilepsy patients. The goal of this research is to discover the electrophysiological substrates of engrams and the human mind to develop neuromodulation therapies for restoring these in epilepsy, dementias, psychiatric and other brain diseases.
+
+# NeuroGDA
 
 NeuroGDA is an initiative to bring together and foster collaboration between people doing research in all areas of neuroscience within the Tricity area. Our plan is to establish a series of monthly seminars where people could present their work, meet colleagues from different departments and institutions, network and share ideas.
 
@@ -19,15 +33,3 @@ Everyone is invited! The seminars are open to the public. That being said, we wi
 ## Who’s behind it?
 The idea for NeuroGDA came from a discussion between Ola Rutkowska and Krzysztof Basiński at the Medical University of Gdańsk. However, we would gladly share the organizational burden with other people. If you wish to help us out (especially if you’re at another university), feel free to contact us!
 
-# Next seminar
-
-- 5/02/2025, 14:30 - 15:30
-- Room 2/DD/03, Centrum Medycyny Inwazyjnej (CMI), Uniwersyteckie Centrum Kliniczne, Smoluchowskiego 17 
-
-### Agenda
-
-- Introduction by the organisers
-- Lab presentation – Michał Kucewicz, Brain and Mind Electrophysiology Laboratory, Gdańsk Tech
-- Informal discussion
-
-**Michal Kucewicz** is the founder of the Brain & Mind Electrophysiology (BME) lab at the BioTechMed Center of the Gdansk University of Technology in Poland. BME lab focuses on studying the brain activities underlying memory and higher cognitive functions with technologies for intracranial multi-electrode recordings and stimulation mainly in epilepsy patients. The goal of this research is to discover the electrophysiological substrates of engrams and the human mind to develop neuromodulation therapies for restoring these in epilepsy, dementias, psychiatric and other brain diseases.
