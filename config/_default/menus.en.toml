@@ -36,34 +36,14 @@
   weight = 50
 
 [[main]]
-  name = '{{< icon "bluesky" >}}'
-  url = "http://bluesky.com"
+  name = 'NeuroGDA'
+  pageRef = "neuro_gda"
   weight = 60
 
 [[main]]
-  name = '{{< icon "twitter" >}}'
-  url = "http://twitter.com"
+  name = '{{< icon "bluesky" >}}'
+  url = "http://bluesky.com"
   weight = 60
-
-
-
-
-# [[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
-
-# [[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
-
-
-# [[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
 
 
 # -- Footer Menu --
