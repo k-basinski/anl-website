@@ -32,12 +32,12 @@
 
 [[main]]
   name = 'Participate'
-  pageRef = "participate"
+  url = "https://airtable.com/apptqpO1FEw7mXfBL/pagxNYspvZP0uCVFE/form"
   weight = 50
 
 [[main]]
   name = 'NeuroGDA'
-  pageRef = "neuro_gda"
+  url = "https://neurogda.gumed.edu.pl/"
   weight = 60
 
 [[main]]

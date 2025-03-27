@@ -6,8 +6,8 @@ layout: "simple"
 
 # Next seminar
 
-- 5/02/2025, 14:30 - 15:30
-- Room 2/DD/03, Centrum Medycyny Inwazyjnej (CMI), Uniwersyteckie Centrum Kliniczne, Smoluchowskiego 17 
+- February 5th 2025, 14:30 - 15:30
+- Room 2/DD/03, Centrum Medycyny Inwazyjnej (CMI), Uniwersyteckie Centrum Kliniczne, Smoluchowskiego 17 [look up on Google Maps](https://maps.app.goo.gl/tLA2EAiwJDySVomu9)
 
 #### Agenda
 
