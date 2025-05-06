@@ -2,6 +2,7 @@
 title: "Lab members"
 layout: "by-page-param" 
 description: "This is a list of all lab members and affiliates."
+showTableOfContents: false
 ---
 
 ## Principal Investigator

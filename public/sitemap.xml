@@ -37,11 +37,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/people/julia_l/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/people/kornelia/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -53,6 +48,11 @@
   </url>
   <url>
     <loc>//localhost:1313/people/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/people/mirella/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
