@@ -3,6 +3,7 @@ title: "Mirella Wojciechowska"
 showAuthor: false
 showReadingTime: false
 showWordCount: false
+showdate: false
 ---
 
 {{< figure src="members/mirella.jpg"  default=true width="300" >}}

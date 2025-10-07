@@ -3,6 +3,7 @@ title: "Kornelia Renachowska"
 showAuthor: false
 showReadingTime: false
 showWordCount: false
+showdate: false
 ---
 
 {{< figure src="members/kornelia.png"  default=true width="300" >}}

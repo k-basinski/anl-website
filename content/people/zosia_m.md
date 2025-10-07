@@ -3,6 +3,7 @@ title: "Zosia Mikołajczak"
 showAuthor: false
 showReadingTime: false
 showWordCount: false
+showdate: false
 ---
 
 {{< figure src="members/zosia_m.png"  default=true width="300" >}}
