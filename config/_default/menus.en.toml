@@ -55,7 +55,7 @@
 
 [[main]]
   name = '{{< icon "bluesky" >}}'
-  url = "http://kbas.bsky.social"
+  url = "https://kbas.bsky.social"
   weight = 60
 
 [[main]]
