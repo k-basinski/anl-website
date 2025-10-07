@@ -2,7 +2,7 @@
 title: "Lab members"
 layout: "by-page-param" 
 description: "This is a list of all lab members and affiliates."
-showTableOfContents: false
+showdate: false
 ---
 
 ## Principal Investigator
@@ -14,10 +14,16 @@ showTableOfContents: false
 
 - [Tomasz Domżalski](tomasz)
 
-## Masters/undergrad students
+## Research collaborators
 
 - [Aniela Brzezińska](aniela)
-- [Bartosz Witkowski](bartosz)
+
+## Masters/undergrad students
+
 - [Zosia Mikołajczak](zosia_m)
 - [Kornelia Renachowska](kornelia)
+
+## Lab alumni
+
+- [Bartosz Witkowski](bartosz)
 - [Mirella Wojciechowska](mirella)

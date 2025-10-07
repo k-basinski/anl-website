@@ -7,14 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>(C)opyright 2024 ANL</copyright>
-    <lastBuildDate>Tue, 16 Jan 2024 16:08:06 +0100</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Oct 2025 14:40:44 +0200</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My First Post</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 16 Jan 2024 16:08:06 +0100</pubDate>
+      <title>ANLab at ICAC2025 in Maastricht</title>
+      <link>//localhost:1313/posts/icac-maastricht/</link>
+      <pubDate>Wed, 01 Oct 2025 14:40:44 +0200</pubDate>
       
-      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <guid>//localhost:1313/posts/icac-maastricht/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ANLab at IOP2025 in Kraków</title>
+      <link>//localhost:1313/posts/iop-krakow/</link>
+      <pubDate>Thu, 17 Jul 2025 14:08:27 +0200</pubDate>
+      
+      <guid>//localhost:1313/posts/iop-krakow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Neural mechanisms of predictive processing - an OpenScope collaboration</title>
+      <link>//localhost:1313/posts/allen-collaboration/</link>
+      <pubDate>Wed, 07 May 2025 12:39:48 +0200</pubDate>
+      
+      <guid>//localhost:1313/posts/allen-collaboration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>New preprint available!</title>
+      <link>//localhost:1313/posts/aarhus-preprint/</link>
+      <pubDate>Wed, 30 Apr 2025 11:41:01 +0200</pubDate>
+      
+      <guid>//localhost:1313/posts/aarhus-preprint/</guid>
       <description></description>
       
     </item>

@@ -4,25 +4,43 @@
 
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-04-04T11:32:29+02:00</lastmod>
+    <lastmod>2025-10-01T14:40:44+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/icac-maastricht/</loc>
+    <lastmod>2025-10-01T14:40:44+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-10-01T14:40:44+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/iop-krakow/</loc>
+    <lastmod>2025-07-17T14:08:27+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/allen-collaboration/</loc>
+    <lastmod>2025-05-07T12:39:48+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/aarhus-preprint/</loc>
+    <lastmod>2025-04-30T11:41:01+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/participate/</loc>
     <lastmod>2024-04-04T11:32:29+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2024-01-16T16:08:06+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-01-16T16:08:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -47,12 +65,17 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/people/</loc>
+    <loc>//localhost:1313/people/ppl/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/people/mirella/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/people/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

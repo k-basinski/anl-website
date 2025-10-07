@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 showAuthor: false
+showDate: false
 ---
 
 ## Preprints

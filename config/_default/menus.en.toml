@@ -16,35 +16,52 @@
 #   weight = 10
 
 [[main]]
+ name = "News"
+ pageRef = "posts"
+ weight = 10
+
+[[main]]
+ name = "People"
+ pageRef = "people/ppl"
+ weight = 30
+
+[[main]]
+ name = "Our work"
+ weight = 40
+
+[[main]]
  name = "Projects"
+ parent = "Our work"
  pageRef = "projects"
  weight = 20
 
 [[main]]
- name = "People"
- pageRef = "people"
- weight = 30
-
-[[main]]
   name = "Publications"
   pageRef = "publications"
+  parent = "Our work"
+  weight = 40
+
+[[main]]
+  name = "NeuroGDA"
+  url = "https://neurogda.gumed.edu.pl/"
+  parent = "Our work"
   weight = 40
 
 [[main]]
   name = 'Participate'
+  parent = "Our work"
   url = "https://airtable.com/apptqpO1FEw7mXfBL/pagxNYspvZP0uCVFE/form"
   weight = 50
 
 [[main]]
-  name = 'NeuroGDA'
-  url = "https://neurogda.gumed.edu.pl/"
+  name = '{{< icon "bluesky" >}}'
+  url = "http://kbas.bsky.social"
   weight = 60
 
 [[main]]
-  name = '{{< icon "bluesky" >}}'
-  url = "http://bluesky.com"
-  weight = 60
-
+  name = '{{< icon "linkedin" >}}'
+  url = 'https://www.linkedin.com/company/auditory-neuroscience-laboratory/'
+  weight = 70
 
 # -- Footer Menu --
 # # The footer menu is displayed at the bottom of the page, just before
