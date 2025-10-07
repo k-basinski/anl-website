@@ -7,23 +7,23 @@ showdate: false
 
 ## Principal Investigator
 
-- [Krzysztof Basiński](krzysztof)
+- [Krzysztof Basiński](../krzysztof)
 
 
 ## PhD students
 
-- [Tomasz Domżalski](tomasz)
+- [Tomasz Domżalski](../tomasz)
 
 ## Research collaborators
 
-- [Aniela Brzezińska](aniela)
+- [Aniela Brzezińska](../aniela)
 
 ## Masters/undergrad students
 
-- [Zosia Mikołajczak](zosia_m)
-- [Kornelia Renachowska](kornelia)
+- [Zosia Mikołajczak](../zosia_m)
+- [Kornelia Renachowska](../kornelia)
 
 ## Lab alumni
 
-- [Bartosz Witkowski](bartosz)
-- [Mirella Wojciechowska](mirella)
+- [Bartosz Witkowski](../bartosz)
+- [Mirella Wojciechowska](../mirella)
