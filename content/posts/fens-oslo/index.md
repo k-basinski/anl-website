@@ -1,8 +1,9 @@
 +++
 title = 'ANLab at FENS2025 in Oslo'
-date = 2025-10-15T14:40:44+02:00
+date = 2025-06-25T14:40:44+02:00
 draft = false
 +++
+
 Tomek recently attended the [FENS Regional Meeting](https://www.frm2025oslo.no) in the city of Oslo, Norway. The FENS brings together neuroscientists from all around the globe, and as usual, this year’s meeting welcomed the remarkable diversity of modern neuroscience – from Neuropharmacology and Neuroimmunology to Neural Circuits, Cognitive Neuroscience, and Computational Neuroscience.
 
 Over 500 posters were presented during four intensive days filled with research using both animal and human models. We had the chance to attend inspiring talks from some of the most distinguished researchers in the field, including Nobel Prize laureate Edvard Moser, Kavli Prize laureate Nancy Kanwisher, and Brain Prize laureate Terry Sejnowski.
