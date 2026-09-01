@@ -7,4 +7,4 @@ Aniela and Bartek's first published paper is out now in Scientific Reports! It g
 
 Read the whole article here: [https://www.nature.com/articles/s41598-026-41129-7](https://www.nature.com/articles/s41598-026-41129-7)
 
-![Aniela and Bartek](aniela_bartek.jpeg)
+![Aniela and Bartek](aniela_bartek.png)
