@@ -11,4 +11,4 @@ showWordCount: false
 [{{< icon "email" >}}](mailto:bartek.w@gumed.edu.pl)
 
 
-I'm Bartek. I'm studying psychology at the Medical University of Gdańsk. I enjoy exploring the world from various perspectives and delving into the intricacies of phenomena that may initially seem obvious. I have a keen interest in neuropsychology and the overall workings of the brain.
+I'm Bartek. I studied psychology at the Medical University of Gdańsk. I enjoy exploring the world from various perspectives and delving into the intricacies of phenomena that may initially seem obvious. I have a keen interest in neuropsychology and the overall workings of the brain.
