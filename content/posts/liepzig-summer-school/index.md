@@ -8,10 +8,10 @@ In June, Kornelia and Zosia had the opportunity to take part in the 2nd Summer S
 
 [https://imprs-coni.mpg.de/summer-school-2026](https://imprs-coni.mpg.de/summer-school-2026)
 
-![Liepzig 1](lepzig1.png)
+![Liepzig 1](liepzig1.png)
 
-![Liepzig 2](lepzig2.png)
+![Liepzig 2](liepzig2.png)
 
 The school also included poster sessions, where they presented a poster on their own research. In addition, the girls had the chance to exchange experiences with other participants during networking events, where they met many PhD students from the International Max Planck Research School who answered all their pressing questions about pursuing a doctorate abroad.
 
-![Liepzig 3](lepzig3.png)
+![Liepzig 3](liepzig3.png)
