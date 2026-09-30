@@ -13,9 +13,6 @@ showdate: false
 ## PhD students
 
 - [Tomasz Domżalski](../tomasz)
-
-## Research collaborators
-
 - [Aniela Brzezińska](../aniela)
 
 ## Masters/undergrad students
